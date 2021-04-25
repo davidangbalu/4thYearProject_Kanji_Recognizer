@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="42f9c889-29f3-45b9-b028-d2ed37059a36" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/KanjiRecognizer_ML/kanji.tflite" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KanjiRecognizer_ML/kanji_test_images.npz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KanjiRecognizer_ML/kanji_test_labels.npz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KanjiRecognizer_ML/kanji_train_images.npz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KanjiRecognizer_ML/kanji_train_labels.npz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/androidTest/java/com/davidangbalu/kanjirecognizer/ExampleInstrumentedTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/davidangbalu/kanjirecognizer/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/davidangbalu/kanjirecognizer/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/davidangbalu/kanjirecognizer/Rendering.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/davidangbalu/kanjirecognizer/Rendering.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/davidangbalu/kanjirecognizer/canvas/KanjiCanvas.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/davidangbalu/kanjirecognizer/canvas/KanjiCanvas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/davidangbalu/kanjirecognizer/canvas/Result.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/davidangbalu/kanjirecognizer/canvas/Result.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/davidangbalu/kanjirecognizer/model/Classifier.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/davidangbalu/kanjirecognizer/model/Classifier.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/davidangbalu/kanjirecognizer/model/Recognition.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/davidangbalu/kanjirecognizer/model/Recognition.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values-night/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/test/java/com/davidangbalu/kanjirecognizer/ExampleUnitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/test/java/com/davidangbalu/kanjirecognizer/ExampleUnitTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="JUnit4 Test Class" />
+        <option value="valueResourceFile" />
+      </list>
+    </option>
+  </component>
+  <component name="GenerateSignedApkSettings">
+    <option name="KEY_STORE_PATH" value="C:\Users\david\Documents\keystore.jks" />
+    <option name="KEY_ALIAS" value="davidangbalu_kanji" />
+    <option name="REMEMBER_PASSWORDS" value="true" />
+    <option name="BUILD_TARGET_KEY" value="apk" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1rOBf1WvPWrLk71kqdiIKEHgB4z" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ApkExportedModule" value="KanjiRecognizer.app" />
+    <property name="ExportApk.ApkPath" value="D:\Project\project-davidangbalu\KanjiRecognizer\app" />
+    <property name="ExportApk.BuildVariants" value="release" />
+    <property name="ExportApk.SignV1" value="true" />
+    <property name="ExportApk.SignV2" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android-custom-viewD:/4thYearProject/4thYearProject/KanjiRecognizer/app/src/main/java/com/davidangbalu/kanjirecognizer/canvas/Bitmap.java_SELECTED" value="BitmapView" />
+    <property name="android-custom-viewD:/4thYearProject/4thYearProject/KanjiRecognizer/app/src/main/java/com/davidangbalu/kanjirecognizer/canvas/BitmapView.java_SELECTED" value="BitmapView" />
+    <property name="android-custom-viewD:/4thYearProject/4thYearProject/KanjiRecognizer/app/src/main/java/com/davidangbalu/kanjirecognizer/canvas/Canvas.java_SELECTED" value="KanjiCanvas" />
+    <property name="android-custom-viewD:/4thYearProject/4thYearProject/KanjiRecognizer/app/src/main/java/com/davidangbalu/kanjirecognizer/canvas/KanjiCanvas.java_SELECTED" value="KanjiCanvas" />
+    <property name="android-custom-viewD:/4thYearProject/4thYearProject/KanjiRecognizer/app/src/main/java/com/davidangbalu/kanjirecognizer/canvas/Result.java_SELECTED" value="Result" />
+    <property name="android-custom-viewD:/Project/project-davidangbalu/KanjiRecognizer/app/src/main/java/com/davidangbalu/kanjirecognizer/canvas/KanjiCanvas.java_SELECTED" value="KanjiCanvas" />
+    <property name="android-custom-viewD:/Project/project-davidangbalu/KanjiRecognizer/app/src/main/java/com/davidangbalu/kanjirecognizer/canvas/Result.java_SELECTED" value="Result" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/app/src/androidTest/java/com/davidangbalu/kanjirecognizer" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="multi-representation-previewD:/4thYearProject/4thYearProject/KanjiRecognizer/app/src/main/java/com/davidangbalu/kanjirecognizer/canvas/Bitmap.java_selected" value="Custom views" />
+    <property name="multi-representation-previewD:/4thYearProject/4thYearProject/KanjiRecognizer/app/src/main/java/com/davidangbalu/kanjirecognizer/canvas/BitmapView.java_selected" value="Custom views" />
+    <property name="multi-representation-previewD:/4thYearProject/4thYearProject/KanjiRecognizer/app/src/main/java/com/davidangbalu/kanjirecognizer/canvas/Canvas.java_selected" value="Custom views" />
+    <property name="multi-representation-previewD:/4thYearProject/4thYearProject/KanjiRecognizer/app/src/main/java/com/davidangbalu/kanjirecognizer/canvas/KanjiCanvas.java_selected" value="Custom views" />
+    <property name="multi-representation-previewD:/4thYearProject/4thYearProject/KanjiRecognizer/app/src/main/java/com/davidangbalu/kanjirecognizer/canvas/Result.java_selected" value="Custom views" />
+    <property name="multi-representation-previewD:/Project/project-davidangbalu/KanjiRecognizer/app/src/main/java/com/davidangbalu/kanjirecognizer/canvas/KanjiCanvas.java_selected" value="Custom views" />
+    <property name="multi-representation-previewD:/Project/project-davidangbalu/KanjiRecognizer/app/src/main/java/com/davidangbalu/kanjirecognizer/canvas/Result.java_selected" value="Custom views" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.davidangbalu.kanjirecognizer" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.davidangbalu.kanjirecognizer" />
+    </key>
+    <key name="android.template.-1582344474">
+      <recent name="com.davidangbalu.kanjirecognizer" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="KanjiRecognizer.app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="42f9c889-29f3-45b9-b028-d2ed37059a36" name="Default Changelist" comment="" />
+      <created>1618837355204</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1618837355204</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="324" y="337" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1619059140617">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="324" y="337" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1536.824@0.0.1536.824" timestamp="1619059140617" />
+    <state x="551" y="281" width="433" height="267" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1618841947410">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="551" y="281" width="433" height="267" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.824@0.0.1536.824" timestamp="1618841947410" />
+    <state x="499" y="175" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1619019989669">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="175" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1619019989669" />
+    <state x="126" y="90" width="1350" height="638" key="AVDManager" timestamp="1619187975056">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="126" y="90" width="1350" height="638" key="AVDManager/0.0.1536.824@0.0.1536.824" timestamp="1619187975055" />
+    <state x="349" y="167" key="AndroidCreateResourceFileDialog" timestamp="1619175879448">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="349" y="167" key="AndroidCreateResourceFileDialog/0.0.1536.824@0.0.1536.824" timestamp="1619175879448" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1619138002151">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1619138002151" />
+    <state x="632" y="310" key="Github.ShareDialog" timestamp="1619053576991">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="632" y="310" key="Github.ShareDialog/0.0.1536.824@0.0.1536.824" timestamp="1619053576991" />
+    <state x="487" y="118" key="Github.UntrackedFilesDialog" timestamp="1619053591501">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="487" y="118" key="Github.UntrackedFilesDialog/0.0.1536.824@0.0.1536.824" timestamp="1619053591501" />
+    <state width="1491" height="210" key="GridCell.Tab.0.bottom" timestamp="1619140721766">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1491" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1619140721766" />
+    <state width="1491" height="210" key="GridCell.Tab.0.center" timestamp="1619140721766">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1491" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1619140721766" />
+    <state width="1491" height="210" key="GridCell.Tab.0.left" timestamp="1619140721765">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1491" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1619140721765" />
+    <state width="1491" height="210" key="GridCell.Tab.0.right" timestamp="1619140721766">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1491" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1619140721766" />
+    <state x="584" y="190" key="chooseDestDirectoryDialog" timestamp="1619100679671">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="584" y="190" key="chooseDestDirectoryDialog/0.0.1536.824@0.0.1536.824" timestamp="1619100679671" />
+    <state x="533" y="198" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1619100679765">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="533" y="198" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1536.824@0.0.1536.824" timestamp="1619100679765" />
+    <state x="475" y="145" width="586" height="534" key="find.popup" timestamp="1619086311999">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="475" y="145" width="586" height="534" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1619086311999" />
+    <state x="425" y="65" width="672" height="676" key="search.everywhere.popup" timestamp="1619017910255">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="65" width="672" height="676" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1619017910255" />
+  </component>
+</project>
